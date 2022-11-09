@@ -417,6 +417,91 @@
 
                 // //  ASSIGNMENT TASK-5 MATH EXPRESSIONS-COMPLETED
 
+                // ASSIGNMENT TASK 6-9 MATH EXPRESSIONS
+// 1. Write a program to take a number in a variable, do the required arithmetic to display the following result in your browser:
+                        // var a = 10;
+                        // document.write("Result:");
+                        // document.write("<br>The value of a is: "+a);
+                        // document.write("<br>.................................");
+                        // document.write("<br>")
+                        // document.write("<br>");
+                        // increment =  ++a
+                        // document.write("<br>The value of a++ is : "+ increment);
+                        // document.write("<br>Now the value of ++a is: "+ increment)
+                        // document.write("<br>");
+                        // document.write("<br>");
+                        // document.write("<br>The value of a++ is: "+increment);
+                        // increment1 = ++a
+                        // document.write("<br>Now the value of a is :"+a)
+                        // document.write("<br>");
+                        // document.write("<br>");
+                        // decrement = --a;
+                        // document.write("<br>The value of --a is:"+decrement);
+                        // document.write("<br>Now the value of a is : "+decrement);
+                        // document.write("<br>");
+                        // document.write("<br>");
+                        // decrement2 = --a
+                        // document.write("<br>The value of --a is :"+decrement);
+
+                        // document.write("<br>Now the value of a is :"+decrement2);
+
+// 2. What will be the output in variables a, b & result after execution of the following script:
+//  var a = 2, b = 1; 
+//  var result = --a - --b + ++b + b--; 
+// Explain the output at each stage:
+//  --a;
+//   --a - --b; 
+//   --a - --b + ++b;
+//    --a - --b + ++b + b--;
+                //         var a = 2 
+                //         var b = 1;
+                        
+                //      document.write("a is:"+a);
+                //      document.write("<br>b is :"+b);
+                //      document.write("<br>--a is:"+ --a);
+                //      document.write("<br>-- b is:"+ --b);
+                //      document.write("<br>++b is:"+ ++b);
+                //      document.write("<br>b-- is:"+ b--);
+                //      var result = --a - --b + ++b + b--; 
+                //      document.write("<br>Result is:"+ result);
+
+// 3. Write a program that takes input a name from user & greet the user.
+        // var name = prompt("Enter Your Name");
+        // console.log('Aslaam-o-Alaikum', name);
+        // document.write('Aslaam-o-Alaikum ', name);
+
+// 5. Write a program to take input a number from user & display it’s multiplication table on your browser. 
+// If user does not enter a new number, 
+// multiplication table of 5 should be displayed by default.
+
+        // var table = parseInt(prompt("Enter Table Number"));
+        // if(table > 0){
+        //         document.write(table + "*" +1+ "=" + table * 1);
+        //         document.write("<br>"+table + "*" +2+ "=" + table * 2)
+        //         document.write("<br>"+table + "*" +3+ "=" + table * 3)
+        //         document.write("<br>"+table + "*" +4+ "=" + table * 4)
+        //         document.write("<br>"+table + "*" +5+ "=" + table * 5)
+        //         document.write("<br>"+table + "*" +6+ "=" + table * 6)
+        //         document.write("<br>"+table + "*" +7+ "=" + table * 7)
+        //         document.write("<br>"+table + "*" +8+ "=" + table * 8)
+        //         document.write("<br>"+table + "*" +9+ "=" + table * 9)
+        //         document.write("<br>"+table + "*" +10+ "=" + table * 10)
+        // } else {
+        //         document.write(5 + "*" +1 + "=" + 5 * 1);
+        //         document.write("<br>"+5 +"*" +2 + "=" + 5 * 2);
+        //         document.write("<br>"+5 +"*" +3 + "=" + 5 * 3);
+        //         document.write("<br>"+5 +"*" +4 + "=" + 5 * 4);
+        //         document.write("<br>"+5 +"*" +5 + "=" + 5 * 5);
+        //         document.write("<br>"+5 +"*" +6 + "=" + 5 * 6);
+        //         document.write("<br>"+5 +"*" +7 + "=" + 5 * 7);
+        //         document.write("<br>"+5 +"*" +8 + "=" + 5 * 8);
+        //         document.write("<br>"+5 +"*" +9 + "=" + 5 * 9);
+        //         document.write("<br>"+5 +"*" +10 + "=" + 5 * 10);
+
+        // }
+
+
+
 
 
 
