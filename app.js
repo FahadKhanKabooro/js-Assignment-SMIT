@@ -500,6 +500,70 @@
 
         // }
 
+        // 6. Take
+// a) Take three subjects name from user and store them in 3 different variables.
+// b) Total marks for each subject is 100, store it in another variable.
+// c) Take obtained marks for first subject from user and stored it in different variable.
+// ALERTS | JAVASCRIPT
+// Page 3 of 3
+// d) Take obtained marks for remaining 2 subjects from user and store them in variables.
+// e) Now calculate total marks and percentage and show the result in browser like this.(Hint: user table)
+//         var eng = parseInt(prompt("Enter English Marks"));
+//         if(eng >= 0 && eng <= 100){
+//         var urdu = parseInt(prompt("Enter Urdu Marks"));
+//         if(urdu >= 0 && urdu <= 100 ){
+//         var math = parseInt(prompt("Enter Maths MArks"));
+//         if(math >= 0 && math <= 100){
+//                 console.log("All Good!");
+//                 var result = eng+urdu+math;
+//                 var perc = result/300*100;
+//                 console.log(result);
+//                 console.log(perc);
+//         document.write("<table class='tab';>")
+//         document.write("<tr class='tab-row'><th> Subject </th> ")
+//         document.write("<th> Obtain Marks </th> ")
+//         document.write("<th> Total Marks <th> ")
+//         document.write("<th> Percentage </th> ")
+//         document.write("</tr>")
+
+//         document.write("<tr class='tab-row' ><th> EngLish </th> ")
+//         document.write("<th>" +eng+ "</th> ")
+//         document.write("<th> 100 <th> ")
+//         document.write("<th></th> ")
+//         document.write("</tr>")
+
+//         document.write("<tr class='tab-row' ><th> Urdu </th> ")
+//         document.write("<th>" +urdu+ "</th> ")
+//         document.write("<th> 100 <th> ")
+//         document.write("<th></th> ")
+//         document.write("</tr>")
+
+//         document.write("<tr class='tab-row' ><th> Math </th> ")
+//         document.write("<th>" +math+ "</th> ")
+//         document.write("<th> 100 <th> ")
+//         document.write("<th>" +perc+ "</th> ")
+//         document.write("</tr>")
+//         document.write("</table>")
+//         }
+//         else{
+//         document.write("Enter math correct number")
+
+//         }
+
+// }
+
+//         else{
+//         document.write("Enter urdu correct number")
+
+//         }
+// }
+
+//         else{
+//         document.write("Enter eng correct number")
+// }
+        
+                // ASSIGNMENT TASK-6 to 9 MAth EXPRESSION COMPLETED
+
 
 
 
