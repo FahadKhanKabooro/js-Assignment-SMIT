@@ -564,6 +564,58 @@
         
                 // ASSIGNMENT TASK-6 to 9 MAth EXPRESSION COMPLETED
 
+                // ASSIGNMENT TASK 9-11 USER INPUT & CONDITIONAL STATEMENT STARTS
+
+// 1. Write a program to take “city” name as input from user. If user enters “Karachi”, welcome the user like this: “Welcome to city of lights”
+        // var cityName = prompt("EnterCity name");
+        // if(cityName == 'Karachi'){
+        //         console.log("“Welcome to city of lights”")
+        // } else{
+        //         console.log("Incorrect city name Try Again")
+        // }
+
+// 2. Write a program to take “gender” as input from user. 
+// If the user is male, give the message: Good Morning Sir. 
+// If the user is female, 
+// give the message: Good Morning Ma’am.
+
+        // let user = prompt("Enter Your gender");
+        // if(user == 'male'){
+        //         console.log("Good Morning Sir")
+        // } else{
+        //         console.log("Good Morning Ma’am" );
+        // }
+
+// 3. Write a program to take input color of road traffic signal from the user & show the message according to this table:
+        // let signal = prompt("Enter The Signal Light color");
+        // if(signal == 'red','yello','green'){
+        //         document.write("<table class='tab1' >")
+        //         document.write("<br><tr class='tr1' ><th>SIGNAL COLOR</th>")
+        //         document.write("<br><th>MESSAGE</th>")
+        //         document.write("<br></tr>")
+        //         document.write("<br><tr><td>Red</td>")
+        //         document.write("<br><td>Must Stop</td></tr>")
+        //         document.write("<br><tr class ='tr2'><td>Yellow</td>")
+        //         document.write("<br><td>Ready to move</td></tr>")
+        //         document.write("<br><tr><td>Green</td>")
+        //         document.write("<br><td>Move now</td></tr>")
+        //         document.write("</table>")
+        // } else {
+        //         document.write("incorrect input Try Again")
+        // }
+
+// 4. Write a program to take input remaining fuel in car (in litres) from user. 
+// If the current fuel is less than 0.25litres,
+//  show the message “Please refill the fuel in your car”
+        // let fuel = parseInt(prompt("Remaining Fuel in car"));
+        // if(fuel >= 1 && fuel <=20){
+        //         console.log("You have enough fuel")
+        // } if (fuel <0.50 && fuel <= 0.25 ){
+        //         console.log("You need to refill fuel immidiately")
+        // } else {
+        //         console.log("incorrect input")
+        // }
+
 
 
 
