@@ -616,6 +616,115 @@
         //         console.log("incorrect input")
         // }
 
+// 5. Run this script, & check whether alert message would be displayed or not. Record the outputs. 
+ // a. var a = 4; 
+        // if (++a === 5){ 
+        //         alert("given condition for variable a is true");
+        //  }
+// b. var b = 82; 
+        // if (b++ === 83){
+        //          alert("given condition for variable b is true");
+        //          }
+// c. var c = 12; 
+        // if (c++ === 13){
+        //  alert("condition 1 is true"); 
+        // } 
+        // if (c === 13){
+        //          alert("condition 2 is true"); 
+        //         } 
+        // // if (++c < 14){
+        //          alert("condition 3 is true"); 
+        //         } 
+        // // if(c === 14){ 
+        //         alert("condition 4 is true"); }
+// d. var materialCost = 20000; var laborCost = 2000; 
+        // var totalCost = materialCost + laborCost; 
+        // if (totalCost === laborCost + materialCost){
+        //          alert("The cost equals"); }
+// e. if (true){ alert("True"); }
+        //  if (false){ alert("False"); }
+// f. if("car" < "cat"){ alert("car is smaller than cat"); }
+
+// 6. Write a program to take input the marks obtained in three subjects & total marks. Compute & show the resulting percentage on your page. Take percentage & compute grade as per following table:
+        // document.write("<table class='tab1'>")
+        // document.write("<br><tr class='tr1'>")
+        // document.write("<br><th class='th1'> Percentage% </th>")
+        // document.write("<br><th class='th1'> Grade </th>")
+        // document.write("<br><th class='th1'> Remarks </th>")
+        // document.write("<br></tr>")
+        // document.write("<br><tr>")
+        // document.write("<br><td>Greater than or equal to 80</td>")
+        // document.write("<br><td> A-one </td>")
+        // document.write("<br><td> Excellent </td>")
+        // document.write("<br></tr class='tr2'>")
+        // document.write("<br><tr>")
+        // document.write("<br><td>Greater than or equal to 70</td>")
+        // document.write("<br><td> A </td>")
+        // document.write("<br><td> Good </td>")
+        // document.write("<br></tr>")
+        // document.write("<br><tr>")
+        // document.write("<br><td>Greater than or equal to 60</td>")
+        // document.write("<br><td> B </td>")
+        // document.write("<br><td> You need to improve </td>")
+        // document.write("<br></tr>")
+        // document.write("<br><tr class='tr1'>")
+        // document.write("<br><td>Less than 60</td>")
+        // document.write("<br><td> Fail </td>")
+        // document.write("<br><td> Sorry </td>")
+        // document.write("<br></tr>")
+
+        // var eng = parseInt(prompt("Enter Eng Marks"));
+        // var urdu = parseInt(prompt("Enter Urdu Marks"));
+        // var maths = parseInt(prompt("Enter Maths Marks"));
+        // var total = 300
+        // var obtained = eng+urdu+maths
+        // var percentage = obtained/total*100
+        // if(percentage <= 80){
+        //         document.write("<h1>Marksheet</h1>")
+        // document.write("<br>")
+        // document.write("<br>")
+        // document.write("<br>")
+        // document.write("<br> Total marks:"+ total)
+        // document.write("<br>Marks obtained :"+ obtained)
+        // document.write("<br>Percentage :"+ percentage)
+        // document.write("<br>Grade : A-one")
+        // document.write("<br>Remarks : Excellent")
+        // } if(percentage >=70 && percentage <= 70){
+        //         document.write("<h1>Marksheet</h1>")
+        //         document.write("<br>")
+        //         document.write("<br>")
+        //         document.write("<br>")
+        //         document.write("<br> Total marks:"+ total)
+        //         document.write("<br>Marks obtained :"+ obtained)
+        //         document.write("<br>Percentage :"+ percentage)
+        //         document.write("<br>Grade : ")
+        //         document.write("<br>Remarks : Good")
+        // } if(percentage >= 60 && percentage <= 60){
+        //         document.write("<h1>Marksheet</h1>")
+        //         document.write("<br>")
+        //         document.write("<br>")
+        //         document.write("<br>")
+        //         document.write("<br> Total marks:"+ total)
+        //         document.write("<br>Marks obtained :"+ obtained)
+        //         document.write("<br>Percentage :"+ percentage)
+        //         document.write("<br>Grade : B ")
+        //         document.write("<br>Remarks : You need to improve ")
+        // } if(percentage >= 50 && percentage <=50){
+        //         document.write("<h1>Marksheet</h1>")
+        //         document.write("<br>")
+        //         document.write("<br>")
+        //         document.write("<br>")
+        //         document.write("<br> Total marks:"+ total)
+        //         document.write("<br>Marks obtained :"+ obtained)
+        //         document.write("<br>Percentage :"+ percentage)
+        //         document.write("<br>Grade : Fail ")
+        //         document.write("<br>Remarks : Sorry")
+        // } else{
+        //         document.write("Incorrecr Marks")
+        // }
+        
+        
+
 
 
 
