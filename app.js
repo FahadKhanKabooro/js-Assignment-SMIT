@@ -780,6 +780,43 @@
 //   c. Operation (+, -, *, /, %)
 //    Compute & show the calculated result to user.
 
+        // var inp1 = parseInt(prompt("Enter 1st number"))
+        // var inp2 = parseInt(prompt("Enter 2nd number"))
+        // var opr = prompt("Enter any Operation +, -, *, /, % ")
+        // switch(opr)
+        // {
+        //         // if(opr == "+")
+        //         case "+":
+        //                 var res = parseFloat(inp1) + parseFloat(inp2);
+        //                 console.log(`${inp1} + ${inp2} = ${res}`);
+        //                 break;
+        //         // if(opr == "-")
+        //         case "-":
+        //                 var res = parseFloat(inp1) - parseFloat(inp2);
+        //                 console.log(`${inp1} - ${inp2} = ${res}`);
+        //                 break;
+        //         // if(opr == "*")
+        //         case "*":
+        //                 var res = parseFloat(inp1) * parseFloat(inp2);
+        //                 console.log(`${inp1} * ${inp2} = ${res}`);
+        //                 break;
+        //         // if(opr == "/")
+        //         case "/":
+        //                 var res = parseFloat(inp1) / parseFloat(inp2);
+        //                 console.log(`${inp1} / ${inp2} = ${res}`);
+        //                 break;
+        //         // if(opr == "/")
+        //         case "%":
+        //                 var res = parseFloat(inp1) % parseFloat(inp2);
+        //                 console.log(`${inp1} % ${inp2} = ${res}`);
+        //                 break;
+        //                 default:
+        //                         console.log('Invalid Operator');
+                
+                        
+        //         }
+        //         alert("CALCULATOR")
+//                      TASK 9-11 COMPLETED
 
 
 
