@@ -818,6 +818,117 @@
         //         alert("CALCULATOR")
 //                      TASK 9-11 COMPLETED
 
+//  Assignment Chapter 12-13 
+
+// 1. Write a program that takes a character (number or string) in a variable & 
+// checks whether the given input is a number,
+//  uppercase letter or lower case letter. 
+// (Hint: ASCII codes:- A=65, Z=90, a=97, z=122).
+//         var  ch = prompt('Enter any Value')
+
+//         const res = ch.charCodeAt(0)
+
+//         if (res >= 65 && res <= 90){
+//         document.write(res +
+//         " is an UpperCase character <br>");
+//         }else if (res >= 97 && res <= 122){
+//         document.write(res +
+//         " is an LowerCase character <br>");
+//         }else {document.write(ch +
+//       " is not an aplhabetic character its a number <br>");}
+
+
+// 2. Write a JavaScript program that accept two integers and display the larger. 
+// Also show if the two integers are equal.
+
+        // var inp1 = prompt("Enter 1st Number")
+        // var inp2 = prompt("Enter 2nd number")
+        // if(inp1 > inp2){
+        //         console.log(inp1 + " is Larger number")
+        // } else if(inp1 < inp2){
+        //         console.log(inp2 + " is larger number")
+        // } else if(inp1 == inp2) {
+        //         console.log("Both intigers are Equal Bro")
+        // } else {
+        //         console.log("Invalid input try Agaui Bro!!!")
+        // }
+
+// 3. Write a program that takes input a number from user & state whether the number is positive, 
+// negative or zero.
+        // var user = prompt("Enter a number")
+        // if(user > 0){
+        //         console.log(user + " the number is positive")
+        // } else if(user < 0){
+        //         console.log(user + " the number is negative")
+        // } else {
+        //         console.log("Invalid input ")
+        // }
+
+// 4. Write a program that takes a character (i.e. string of length 1)
+//  and returns true if it is a vowel, false otherwise
+
+        // var inp = prompt("Enter any Letter and check if its a vowel or not")
+        
+        // if(inp == "a"){
+        //         console.log("TRUE")
+        // }else if(inp == "e") {
+        //         console.log("TRUE")
+        // } else if(inp == "i"){
+        //         console.log("TRUE")
+        // }else if(inp == "o"){
+        //         console.log("TRUE")
+        // }else if(inp == "u"){
+        //         console.log("TRUE")
+        // }else {
+        //         console.log("FALSE")
+        // }
+
+// 5. Write a program that
+// a. Store correct password in a JS variable.
+// b. Asks user to enter his/her password
+// c. Validate the two passwords:
+// i. Check if user has entered password. If not, then give message “ Please enter your password”
+// ii. Check if both passwords are same. If they are same, show message “Correct! 
+// The password you entered matches the original password”.
+//  Show “Incorrect password” otherwise.
+        // var user = prompt("Create  a password")
+        // var pass = []
+        // pass.push(user)
+        // inp = prompt("Input Your PAssword")
+        // if(inp != pass){
+        //         console.log("Please enter your password")
+        // }else if(inp == pass){
+        //         console.log("Correct!")
+        // }else (
+        //         console.log("Incorrect password ")
+        // )
+
+// 6. This if/else statement does not work. Try to fix it:
+        //  var greeting = "Good Day" 
+        //  var hour = 13; 
+        //  if (hour < 18) { 
+        //         console.log(greeting)}
+        //  else { console.log("Good evening") }
+
+// 7. Write a program that takes time as input from user in 24 hours clock format like: 1900 = 7pm. 
+// Implement the following case using if, else & else if statements
+
+        // var time = prompt("Input Time")
+        // if(time >= 0000 && time < 1200){
+        //         console.log("Good Morning")
+        // }else if(time >= 1200 && time < 1700){
+        //         console.log("Good afternoon")
+        // }else if(time >= 1700 && time < 2100){
+        //         console.log("Good evening")
+        // }else if(time >= 2100 && time <= 2359){
+        //         console.log("Good night")
+        // }else {
+        //         console.log("Invalid input")
+        // }
+//              Assignment 12 Task Completed
+
+
+
 
 
 
