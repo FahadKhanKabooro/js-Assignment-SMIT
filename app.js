@@ -927,6 +927,95 @@
         // }
 //              Assignment 12 Task Completed
 
+//              Assignment chapter 14-16 Started
+// 1. Declare an empty array using JS literal notation to store student names in future.
+// 2. Declare an empty array using JS object notation to store student names in future.
+        // var students = [];
+
+// 3. Declare and initialize a strings array.
+        // var array = ["fahad","zafar","asad"];
+
+// 4. Declare and initialize a numbers array.
+        // var num = [1,2,3,4,5];
+
+// 5. Declare and initialize a boolean array.
+        // var bool = ["true","false"]
+
+// 6. Declare and initialize a mixed array.
+        // var mixed = [1,2,3,4,5,"fahad","zafar","true","false","148.99"]
+
+// 7. Declare and Initialize an array and store available education qualifications in Pakistan 
+// (e.g. SSC, HSC, BCS, BS, BCOM, MS, M. Phil., PhD). Show the listed qualifications in your browser like:
+        // var qual = ["SSC","HSC","BCS","BS","BCOM","MS","M.Phil.","PhD"]
+        // document.write("Qualifications : ")
+        // document.write("<br>")
+        // document.write("<br>")
+        // document.write("<br>1)"+qual[0])
+        // document.write("<br>2)"+qual[1])
+        // document.write("<br>3)"+qual[2])
+        // document.write("<br>4)"+qual[3])
+        // document.write("<br>5)"+qual[4])
+        // document.write("<br>6)"+qual[5])
+        // document.write("<br>7)"+qual[6])
+        // document.write("<br>8)"+qual[7])
+
+// 8. Write a program to store 3 student names in an array.Take another array to store score of these three students.
+//  Assume that total marks are 500 for each student, display the scores & percentages of students like:
+
+        // var student = ["haseeb","fahad","zafar"]
+        // var score = [268, 320, 360]
+        // var total = 500
+        // var percentage = 100 / 500
+
+        // document.write("Score of " +student[0]+ " is "+score[0]+ "."+" Percentage"+score[0]*percentage+"%")
+        // document.write("<br> Score of " +student[1]+ " is "+score[1]+ "."+" Percentage"+score[1]*percentage+"%")
+        // document.write("<br> Score of "+student[2]+ " is "+score[2]+ "."+" Percentage"+score[2]*percentage+"%")
+
+// 9. Initialize an array with color names. Display the array elements in your browser.
+// a. Ask the user what color he/she wants to add to the beginning & add that color to the beginning of the array.
+//  Display the updated array in your browser.
+//         var color = ["white","black","red","blue"]
+//         document.write("Before Adding Colors :" + color)
+//        var user = prompt("Enter the color u want to add in the beggining in th array");
+//        color.unshift(user);
+//        document.write("<br> after Adding colors : " +color)
+
+// b. Ask the user what color he/she wants to add to the end & add that color to the end of the array.
+//  Display the updated array in your browser.
+                // var color = ["white","black","red","blue"]
+                // document.write("Before adding the color :"+color)
+                // var user = prompt("Enter the color  want add in the end of array")
+                // color.push(user);
+                // document.write("<br> after adding the color in the end of array : "+color)
+
+//c. Add two more color to the beginning of the array. Display the updated array in your browser.
+                // var color = ["white","black","red","blue"]
+                // document.write("Before Adding Colors :" + color)
+                // var user = prompt("Enter the color u want to add in the beggining in th array");
+                // var user1 = prompt('Enter the second color u want to add')
+                // color.unshift(user,user1);
+                // document.write("<br> after Adding colors : " +color)
+
+// d. Delete the first color in the array. Display the updated array in your browser.
+                // var color = [" white "," black "," red "," blue "]
+                // document.write("Before removing the first color from array : "+color)
+                // color.shift()
+                // document.write("<br>after removing the first color from array : " +color)
+
+// e. Delete the last color in the array. Display the updated array in your browser.
+                // var color = [" white "," black "," red "," blue "]
+                // document.write("Before removing the last color from array : "+color)
+                // color.pop()
+                // document.write("<br>after removing the last color from array : " +color)
+
+// f. Ask the user at which index he/she wants to add a color & color name. 
+// Then add the color to desired position/index.
+//   Display the updated array in your browser.
+
+
+
+
+
 
 
 
