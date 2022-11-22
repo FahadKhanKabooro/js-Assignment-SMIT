@@ -1011,6 +1011,52 @@
 // f. Ask the user at which index he/she wants to add a color & color name. 
 // Then add the color to desired position/index.
 //   Display the updated array in your browser.
+        // var color = ["White ", "Black ", "Red", "Blue"]
+        // document.write("Before Updating "+ color)
+        // var user = prompt("Enterfirst Index u want to add or replace te color ")
+        // var user1 = prompt("Enter 2nd Index u want to add or replace te color ")
+        // var user2 = prompt("Enter the color u want add ")
+        // color.splice(user,user1,user2)
+        // document.write("<br>After Updating "+ color)
+
+// g. Ask the user at which index he/she wants to delete color(s) & how many colors he/she wants to delete.
+//  Then remove the same number of color(s) from user-defined position/index.
+//  . Display the updated array in your browser.
+        // var color = ["White " , "Blcak " , "Red" , "Blue"]
+        // document.write("Before "+ color)
+        // var user = prompt("Enter the first index ")
+        // var user1 = prompt("Enter the 2nd index how many colors u want o remove ")
+        //  color.splice(user,user1)
+        // document.write("<br> After "+color)
+
+// 10. Write a program to store student scores in an array & 
+// sort the array in ascending order using Array’s sort method.
+
+        // var score = [320 , 230 , 480 , 120]
+        // document.write("Scores of Students :"+score)
+        // var sorted = score.sort()
+        // document.write("<br>Ordered Scores of Students : "+sorted)
+
+// 11. Write a program to initialize an array with city names. 
+// Copy 3 array elements from cities array to selectedCities array.
+        // var cities = ["Karachi","Lahore","Islamabad","Quetta","Peshawar"]
+        // document.write("Cities :"+cities)
+        // var cityList = cities.splice(2,2)
+        // document.write("<br>Selected cityList :"+cityList)
+
+// Write a program to create a single string from the below mentioned array:
+//  var arr = [“This ”, “ is ”, “ my ”, “ cat”]; (Use array’s join method)
+        // var arr = ["This ", " is ", " my ", " cat"]
+        // document.write("Array :"+arr)
+        
+        // var strng = arr.join("")
+        
+      
+        // document.write("<br> string :"+strng)
+
+// 
+
+
 
 
 
