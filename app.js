@@ -1055,6 +1055,50 @@
         // document.write("<br> string :"+strng)
 
 // 
+// 13. Create a new array. Store values one by one in such a way that you can access the values in the order in which they were stored. 
+// (FIFO-First In First Out)
+
+        // var devices = ["Keyboard " ,"Mouse " ,"Printer " ," Monitor"]
+        // document.write("Devices :"+devices)
+        // for(let i of devices){
+        //         document.write("<br>Out:")
+        //         document.write("<br>"+i)
+        // }
+
+// 14. Create a new array. Store values one by one in such a way that you can access the values in reverse order. 
+// (Last In-First Out)
+
+                // var devices = ["Keyboard " ,"Mouse " ,"Printer " ," Monitor"]
+                // document.write("Devices :"+devices)
+                // for(let i of devices.reverse()){
+                //         document.write("<br>Out:")
+                //         document.write("<br>"+i)
+                // }
+
+// 15. Write a program to store phone manufacturers 
+// (Apple, Samsung, Motorola, Nokia, Sony & Haier) in an array.
+//  Display the following dropdown/select menu in your browser using document.write() method:
+        
+        // i = 0
+        // phone = []
+        // while(i == 0){
+        //         data1 = prompt("Enter phone menufacturer")
+        //         data2 = prompt("Enter phone menufacturer")
+        //         phone.push(data1)
+        //         phone.push(data2)
+        //         i = prompt("if u wana run again press 0 ")
+        // }
+        //         document.write("<select>")
+        //         i = 0
+        //         while(i<phone.length){
+        //                 document.write("<option>"+phone[i]+"</option>")
+        //                 i++
+        //         }
+        //         document.write("/select")
+
+
+// Assignmen CHapter 16 Completed 
+
 
 
 
