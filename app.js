@@ -1194,5 +1194,25 @@
         //         }
         // }
 
+// 8. Write a program to identify the largest number in the given array.
+//  A = [24, 53, 78, 91, 12].
+
+        // var  A = [24, 53, 78, 91, 12]
+        // document.write("Array items: "+A)
+        // document.write("<br>"+Math.max(...A)+" is the largest number in the given array")
+
+// 9. Write a program to identify the smallest number in the given array. 
+// A = [24, 53, 78, 91, 12]
+        // var A = [24, 53, 78, 91, 12]
+        // document.write("Array items :"+A)
+        // document.write("<br>"+"The smallest number is "+Math.min(...A))
+
+// 10. Write a program to print multiples of 5 ranging 1 to 100.
+        // for( let i = 5;i <= 100;i = i+5){
+        //         document.write(i+",")
+        // }
+
+        // ASSIGNMENT COMPLETED FROM CAPTER ! TO !& SUCCESSFULLY
+
 
 
