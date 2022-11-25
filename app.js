@@ -1179,5 +1179,12 @@
 // Write a program to enable “search by user input” in an array. After searching,
 //  prompt the user whether the given item is found in the list or not. Example:
 
-
+        var A = ["cake","apple pie","cookie ", " chips", "patties"]
+        var inp = prompt("Enter item name please!")
+        for(i = 0; i < A.length;i++){
+                document.write(A[i]+"<br>")
+                if(A[i] === inp){
+                        alert(A[i]+" is available at ABC Bakery")
+                } 
+        }
 
